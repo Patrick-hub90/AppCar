@@ -1,0 +1,58 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Users.db</file>
+        <file>../build/Projet Qt/Images des Voitures/AcuraNSX2019.JPG</file>
+        <file>../build/Projet Qt/Images des Voitures/BMWSerie82020.JPG</file>
+        <file>../build/Projet Qt/Images des Voitures/CadillacCT5-VBlackwing2022.jpg</file>
+        <file>../build/Projet Qt/Images des Voitures/ChevroletTahoe2021.JPG</file>
+        <file>../build/Projet Qt/Images des Voitures/DaciaSandero.JPG</file>
+        <file>../build/Projet Qt/Images des Voitures/FordExplorer2021.JPG</file>
+        <file>../build/Projet Qt/Images des Voitures/HondaCRV2021.JPG</file>
+        <file>../build/Projet Qt/Images des Voitures/HyundaiBayon.JPG</file>
+        <file>../build/Projet Qt/Images des Voitures/KiaSeltos2021.JPG</file>
+        <file>../build/Projet Qt/Images des Voitures/LamborghiniAventadorSVJRoadster2020.JPG</file>
+        <file>../build/Projet Qt/Images des Voitures/LotusEvora2020.JPG</file>
+        <file>../build/Projet Qt/Images des Voitures/Mercedes-AMGGT2020.JPG</file>
+        <file>../build/Projet Qt/Images des Voitures/Mercedes-BenzGLE2021.JPG</file>
+        <file>../build/Projet Qt/Images des Voitures/NissanAltima2021.JPG</file>
+        <file>../build/Projet Qt/Images des Voitures/NissanQashqai2021.JPG</file>
+        <file>../build/Projet Qt/Images des Voitures/Peugeot208.JPG</file>
+        <file>../build/Projet Qt/Images des Voitures/Porsche911Carrera4S.JPG</file>
+        <file>../build/Projet Qt/Images des Voitures/PorscheCayenne2017.JPG</file>
+        <file>../build/Projet Qt/Images des Voitures/RenaultArkana.JPG</file>
+        <file>../build/Projet Qt/Images des Voitures/SubaruImpreza22BSTi.JPG</file>
+        <file>../build/Projet Qt/Images des Voitures/TeslaModel3.jpg</file>
+        <file>../build/Projet Qt/Images des Voitures/ToyotaAvalon2019.JPG</file>
+        <file>../build/Projet Qt/Images des Voitures/ToyotaCamry.JPG</file>
+        <file>../build/Projet Qt/Images des Voitures/ToyotaYarisHybride2017.JPG</file>
+        <file>../build/Projet Qt/Images des Voitures/VolvoXC40.JPG</file>
+        <file>../build/fichier/Fichier1.png</file>
+        <file>../build/fichier/icons8_activity_history_48px.png</file>
+        <file>../build/fichier/icons8_activity_history_64px.png</file>
+        <file>../build/fichier/icons8_add_100px.png</file>
+        <file>../build/fichier/icons8_add_100px_1.png</file>
+        <file>../build/fichier/icons8_charging_station_64px.png</file>
+        <file>../build/fichier/icons8_edit_48px.png</file>
+        <file>../build/fichier/icons8_edit_52px.png</file>
+        <file>../build/fichier/icons8_gas_station_48px.png</file>
+        <file>../build/fichier/icons8_gas_station_48px_1.png</file>
+        <file>../build/fichier/icons8_home_32px.png</file>
+        <file>../build/fichier/icons8_home_48px_1.png</file>
+        <file>../build/fichier/icons8_logout_rounded_down_52px.png</file>
+        <file>../build/fichier/icons8_logout_rounded_left_60px.png</file>
+        <file>../build/fichier/icons8_ok_48px.png</file>
+        <file>../build/fichier/icons8_ok_96px.png</file>
+        <file>../build/fichier/icons8_ok_100px.png</file>
+        <file>../build/fichier/icons8_person_128px_1.png</file>
+        <file>../build/fichier/icons8_search_100px.png</file>
+        <file>../build/fichier/icons8_shopping_bag_48px.png</file>
+        <file>../build/fichier/icons8_shopping_bag_48px_1.png</file>
+        <file>../build/fichier/icons8_shopping_bag_64px.png</file>
+        <file>../build/fichier/icons8_shopping_cart_48px.png</file>
+        <file>../build/fichier/icons8_shopping_cart_100px_1.png</file>
+        <file>../build/fichier/icons8_speed_48px.png</file>
+        <file>../build/fichier/icons8_speed_48px_1.png</file>
+        <file>../build/fichier/Mercedes-AMGGT2020.JPG</file>
+        <file>../build/fichier/Mercedes-BenzGLE2021.JPG</file>
+    </qresource>
+</RCC>
